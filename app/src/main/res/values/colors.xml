@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorFeatureBlue">#0000FF</color>
     <color name="colorGreenFeature">#00FF00</color>
+    <color name="colorRedFeature">#FF0000</color>
 </resources>
