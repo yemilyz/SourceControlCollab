@@ -24,6 +24,15 @@
         app:srcCompat="@mipmap/ic_launcher"
         android:background="@color/colorFeatureBlue"/>
 
-    <!-- TODO: Green feature wireframe goes here -->
-
+    <!-- Greem Wirefram Here-->
+    <ImageView
+        android:id="@+id/ivGreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@mipmap/ic_launcher"
+        android:background="@color/colorGreenFeature"/>
 </LinearLayout>
+
